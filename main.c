@@ -3,7 +3,7 @@
 int main()
 {
 	printf("Hello world\n");
-	printf("...and Mars!");
+	printf("...and Jupiter!");
 	printf("We should also greet the sun and the moon!");
 
 	if(1>0)
