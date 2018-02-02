@@ -6,5 +6,6 @@ int main()
 	
 	printf("Hello world/n");
 	printf("...and Mars!");
+	printf("We should also greet the sun!");
 	return 0;
 }
